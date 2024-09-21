@@ -1,4 +1,4 @@
--- Define variables
+Define variables
 local enemyFolder = workspace:WaitForChild("Enemies") -- The folder where enemies are stored
 
 -- Function to add highlight to an enemy
