@@ -27,5 +27,5 @@ end
 -- Continuously check for new enemies and highlight them
 while true do
     highlightAllEnemies()
-    wait(999) -- Wait for 2 second before checking again
+    wait(999) -- Wait for 1 second before checking again
 end
